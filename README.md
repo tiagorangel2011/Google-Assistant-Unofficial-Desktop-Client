@@ -1,3 +1,4 @@
+[Skip to download](https://tiagorangel2011.github.io/assistantclient/#download)
 # Google Assistant Unofficial Desktop Client
 
 [![Build](https://img.shields.io/github/workflow/status/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/nodejs-ci?logo=github&style=for-the-badge)][build]
